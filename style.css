@@ -162,6 +162,10 @@ header{
     border-radius: 10px;
     box-shadow: 0 2px 4px rgb(215, 215, 215);
     padding: 20px;
+    transition: 0.5s;
+}
+.section2item:hover{
+    transform: scale(1.2);
 }
 .section2item .itemhead{
     font-size: 1.2rem;
